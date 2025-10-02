@@ -8,6 +8,8 @@ Imagine you’re running a busy coffee shop chain. You want to know:
 
 This project analyzes coffee shop sales data from **January to June 2023** using **Power BI**.  
 The goal was to turn raw transaction data into a clear, interactive dashboard that reveals **business performance trends** at a glance.  
+ 
+ *This dashboard was inspired by a tutorial video on building a Coffee Shop Sales Dashboard in Power BI By "Data Tutorials". I replicated it as part of my learning journey, but expanded on the documentation, storytelling, and insight generation to strengthen my understanding of dashboard design and DAX.*  
 
 By combining **KPIs, Month-over-Month (MoM) growth, tooltips, and heatmaps**, the dashboard not only tracks sales but also tells a story of customer behavior and shop performance over time.  
 
