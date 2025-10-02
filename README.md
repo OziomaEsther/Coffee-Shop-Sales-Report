@@ -1,6 +1,6 @@
-# ☕ Coffee Shop Sales Dashboard  
+#  Coffee Shop Sales Dashboard  
 
-## 📖 Project Overview  
+##  Project Overview  
 Imagine you’re running a busy coffee shop chain. You want to know:  
 - Which products sell the most?  
 - Which days and hours are busiest?  
@@ -13,7 +13,7 @@ By combining **KPIs, Month-over-Month (MoM) growth, tooltips, and heatmaps**, th
 
 ---
 
-## 🎯 Objective  
+## Objective  
 The main objective was to **design an interactive dashboard** that helps decision-makers:  
 1. Track **Total Sales, Total Orders, and Total Quantity Sold**.  
 2. Monitor **growth trends month-over-month (MoM)**.  
@@ -21,8 +21,7 @@ The main objective was to **design an interactive dashboard** that helps decisio
 4. Break down performance by **product categories, product types, and locations**.  
 
 ---
-
-## 📊 Key Dashboard Features  
+## Key Dashboard Features  
 
 ### **1. KPI Cards**  
 - Show **Total Sales, Total Orders, and Total Quantity Sold**.  
@@ -35,7 +34,7 @@ The main objective was to **design an interactive dashboard** that helps decisio
   - ▼ Negative growth  
   - “No Previous Month” (for January baseline).  
 
-👉 **Insight**: February saw a decline in all KPIs, but sales rebounded from March onward.  
+ **Insight**: February saw a decline in all KPIs, but sales rebounded from March onward.  
 
 ### **3. Interactive Tooltips**  
 - **Calendar View Tooltip** → Hovering on a day highlights its sales contribution.  
@@ -53,7 +52,7 @@ The main objective was to **design an interactive dashboard** that helps decisio
 
 ---
 
-## 🔑 Key Insights  
+##  Key Insights  
 
 - **February 2023**: Decline in MoM growth across all KPIs → a potential business challenge.  
 - **March to June 2023**: Steady recovery and consistent upward momentum.  
@@ -63,7 +62,7 @@ This pattern highlights the importance of **seasonality** and tracking **early w
 
 ---
 
-## 🛠️ Technical Learnings  
+##  Technical Learnings  
 
 Building this dashboard helped me strengthen several Power BI skills:  
 
@@ -84,26 +83,7 @@ Building this dashboard helped me strengthen several Power BI skills:
 
 ---
 
-## 📂 Repository Contents  
-
-- `Coffee_Shop_Sales_Dashboard.pbix` → Interactive Power BI dashboard file.  
-- `Coffee_Shop_Sales_Dashboard_Full_Documentation.docx` → Full documentation (step-by-step + tooltips).  
-- `Coffee_Shop_Sales_Dashboard_Full_Documentation.pdf` → Readable PDF version.  
-
----
-
-## 🚀 How to Explore the Dashboard  
-
-1. Download and open the `.pbix` file in **Power BI Desktop**.  
-2. Interact with filters and visuals:  
-   - Hover on charts to explore tooltips.  
-   - Switch months to track MoM growth.  
-   - Drill into product categories or locations.  
-3. Read the documentation (`.docx` / `.pdf`) for methodology and storytelling.  
-
----
-
-## 🌟 Why This Project Matters  
+##  Why This Project Matters  
 
 This project is more than just a dashboard. It shows how **data storytelling** can transform raw numbers into business decisions:  
 - Spotting **early warning signs** of decline (February).  
